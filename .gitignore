@@ -1,1 +1,5 @@
-/Autofill/data/
+**/*.pyc
+**/*.json
+**/*.pickle
+**/*.npz
+**/*.hdf5
